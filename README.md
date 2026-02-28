@@ -39,12 +39,24 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=google&logoColor=white)
 
-### ◈ TELEMETRY
-### ◈ TELEMETRY
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutansh-07&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="GitHub System Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutansh-07&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9f9f9f" alt="Language Telemetry" width="45%" />
-</div>
+### ◈ SYSTEM TELEMETRY
+*Live operational status and current deployment metrics.*
+
+```text
+[ rutansh@govardhan_system ~ ]$ status_report --current
+
+SYSTEM_STATUS        : [ ONLINE ]
+PRIMARY_LANGUAGE     : TypeScript / JavaScript
+CURRENT_PROCESS      : A.R.C.A.D.E_Architecture | Next.js + MySQL
+AI_INTEGRATION       : Active (Gemini API Resume Parser)
+UI_FRAMEWORK         : Shadcn UI + Tailwind CSS (Strict Minimalist)
+BACKGROUND_THREAD    : GATE_CS_Preparation (Focus: OS, DBMS, COA)
+LATEST_NPTEL_SYNC    : Complete
+
+[ rutansh@govardhan_system ~ ]$ tail -f /var/log/development
+> Optimizing Framer Motion component rendering...
+> Refining algorithmic efficiency for upcoming evaluations...
+> Expanding cloud infrastructure knowledge...
 
 ### ◈ OFF-GRID
 *When stepping away from the compiler, I prioritize continuous learning and global perspectives.*

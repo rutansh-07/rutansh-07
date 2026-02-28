@@ -41,8 +41,8 @@
 
 ### ◈ TELEMETRY
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutansh-07&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutansh-07&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f" alt="Top Languages" width="48%" />
 </div>
 
 ### ◈ OFF-GRID

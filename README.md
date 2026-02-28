@@ -40,9 +40,10 @@
 ![Gemini](https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=google&logoColor=white)
 
 ### ◈ TELEMETRY
+### ◈ TELEMETRY
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutansh-07&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutansh-07&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutansh-07&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="GitHub System Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutansh-07&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9f9f9f" alt="Language Telemetry" width="45%" />
 </div>
 
 ### ◈ OFF-GRID

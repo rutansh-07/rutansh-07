@@ -25,7 +25,7 @@ Paste a job description, upload a resume — get a gap analysis and rewrite sugg
 
 ### 🌐 Personal Portfolio
 Motion-heavy portfolio built with Framer Motion and Shadcn UI. Designed to stand out, not blend in.  
-`Framer Motion` `Shadcn UI` → [Live](#)
+`Framer Motion` `Shadcn UI` → [Live](https://rutansh-portfolio.vercel.app/)
 
 ---
 
@@ -44,14 +44,16 @@ Motion-heavy portfolio built with Framer Motion and Shadcn UI. Designed to stand
 
 - 🟢 **A.R.C.A.D.E** — adding role-based access, admin dashboards, and placement analytics
 - 🔵 **AI productivity tools** — resume analyzers, smart summarizers using Gemini API
-- 🟡 **Portfolio site** — almost done
+- 🟡 **Portfolio site** — Done and Deployed!
 
 ---
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rutansh-07&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Let's Talk
 
 Open to freelance projects, internship opportunities, and collaborations.
 
-[LinkedIn](#) · [Portfolio](#) · [Email](mailto:your@email.com)
+[LinkedIn](www.linkedin.com/in/rutansh-govardhan-9592b932a) · [Portfolio](https://rutansh-portfolio.vercel.app/) · [Email](mailto:rutanshgovardhan07@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rutansh-07&color=blueviolet&style=flat-square&label=Profile+Views)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

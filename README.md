@@ -47,7 +47,7 @@ Motion-heavy portfolio built with Framer Motion and Shadcn UI. Designed to stand
 - 🟡 **Portfolio site** — Done and Deployed!
 
 ---
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rutansh-07&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Let's Talk
 
@@ -56,4 +56,3 @@ Open to freelance projects, internship opportunities, and collaborations.
 [LinkedIn](www.linkedin.com/in/rutansh-govardhan-9592b932a) · [Portfolio](https://rutansh-portfolio.vercel.app/) · [Email](mailto:rutanshgovardhan07@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rutansh-07&color=blueviolet&style=flat-square&label=Profile+Views)
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
